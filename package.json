@@ -1,0 +1,17 @@
+{
+  "name": "okta-voice-otp",
+  "version": "1.0.0",
+  "description": "Okta BYOT with 8x8 Voice API for OTP delivery",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["okta", "8x8", "voice", "otp", "byot"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0",
+    "dotenv": "^16.0.0"
+  }
+}
