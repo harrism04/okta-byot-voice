@@ -7,7 +7,7 @@ A webhook service that integrates Okta's Bring Your Own Telephony (BYOT) with 8x
 1. **Clone and Install**
    ```bash
    git clone okta-byot-voice
-   cd okta-voice-otp
+   cd okta-byot-voice
    npm install
    ```
 
